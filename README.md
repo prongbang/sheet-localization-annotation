@@ -14,6 +14,6 @@ repositories {
 
 ```groovy
 dependencies {
-    implementation 'com.github.prongbang:sheet-localization-annotation:1.0.0'
+    implementation 'com.github.prongbang:sheet-localization-annotation:1.2.0'
 }
 ```
